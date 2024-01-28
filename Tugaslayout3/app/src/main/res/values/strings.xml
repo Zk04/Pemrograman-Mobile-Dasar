@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tugas layout 3</string>
+    <string name="stringNama">Nama :</string>
+    <string name="stringStdid">StudentId :</string>
+    <string name="stringJurusan">Jurusan :</string>
+    <string name="stringHobi">Hobi :</string>
+    <string name="btn1">OKE</string>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fntString">20sp</dimen>
+    <dimen name="fntJava">22sp</dimen>
+    <dimen name="fntBtn">20sp</dimen>
+</resources>
