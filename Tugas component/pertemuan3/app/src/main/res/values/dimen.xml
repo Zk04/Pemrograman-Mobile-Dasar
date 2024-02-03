@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fntSizeButton">12pt</dimen>
+    <dimen name="fntSizeTextview">20pt</dimen>
+    <dimen name="hurufBesar">30pt</dimen>
+    <dimen name="hurufKecil">8pt</dimen>
+    <dimen name="hurufL">10pt</dimen>
+</resources>

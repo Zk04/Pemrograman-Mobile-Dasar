@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">pertemuan3</string>
+    <string name="btnClear">Bersihkan</string>
+    <string name="btnSave">Save</string>
+    <string name="submit">Submit</string>
+    <string name="nama">Nama :</string>
+    <string name="gender">Gender :</string>
+    <string name="hobi">Hobi :</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+</resources>
