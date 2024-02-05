@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">quiz</string>
+    <string name="nama">Nama kegiatan :</string>
+    <string name="tempat">Tempat kegiatan :</string>
+    <string name="jenis">Jenis Kegiatan :</string>
+    <string name="luar">Luar ruangan</string>
+    <string name="dalam">Dalam ruangan</string>
+    <string name="olahraga">Olahraga</string>
+    <string name="jalan">Jalan-jalan</string>
+    <string name="makan">Makan</string>
+    <string name="belajar">Belajar</string>
+    <string name="stringNama">Nama :</string>
+    <string name="stringStdid">StudentId :</string>
+    <string name="stringJurusan">Jurusan :</string>
+    <string name="stringHobi">Hobi :</string>
+    <string name="btn1">OKE</string>
+    <string name="submit">Submit</string>
+</resources>
